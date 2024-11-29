@@ -1,0 +1,44 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_framework/templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Meeting Notes",
+      "template": "_framework/templates/Meeting notes.md"
+    },
+    {
+      "folder": "Contacts",
+      "template": "_framework/templates/People Template.md"
+    },
+    {
+      "folder": "Invention Ideas",
+      "template": "_framework/templates/Invention template.md"
+    },
+    {
+      "folder": "1on1 meetings",
+      "template": "_framework/templates/1on1 Template.md"
+    },
+    {
+      "folder": "Brag Documents",
+      "template": "_framework/templates/Brag Document Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ]
+}
